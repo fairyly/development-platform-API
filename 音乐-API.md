@@ -114,3 +114,8 @@ album_id  67909
 
 * https://github.com/MoePlayer/APlayer
 * 在线LRC歌词编辑器: https://github.com/MoeFE/Lyric
+
+
+### 实例
+* 基于百度音乐在线api做的一个简易的播放器 : https://github.com/myadmin/music
+  - http://my-music.leanapp.cn
