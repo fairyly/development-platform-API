@@ -117,8 +117,15 @@ album_id  67909
 
 ## 网易云音乐 Node.js API service
   - https://github.com/Binaryify/NeteaseCloudMusicApi
-  -最好的网易云音乐播放器： https://github.com/trazyn/ieaseMusic
+  - 最好的网易云音乐播放器： https://github.com/trazyn/ieaseMusic
+  - 网易云音乐 Electron 客户端： https://github.com/disoul/electron-cloud-music
+  - 
 
 ### 实例
 * 基于百度音乐在线api做的一个简易的播放器 : https://github.com/myadmin/music
   - http://my-music.leanapp.cn
+
+
+
+### License
+The MIT License (MIT)
