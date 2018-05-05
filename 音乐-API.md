@@ -27,6 +27,20 @@
 http://mobilecdn.kugou.com/api/v3/search/song?format=jsonp&keyword=%E4%BB%99%E5%89%91&page=1&pagesize=10&showtype=1&callback=kgJSONP238513750
 ```
 
+### 百度音乐API
+```
+@ method: get
+@ param: 
+  version   5.6.5.0    //版本
+  query   七里香//关键字
+  method  baidu.ting.search.catalogSug//method
+  fromandroid    //平台
+  formatjson   //format格式
+  
+http://tingapi.ting.baidu.com/v1/restserver/ting?from=android&version=5.6.5.0&method=baidu.ting.search.catalogSug&format=json&query=%E4%B8%83%E9%87%8C%E9%A6%99
+```
+
+
 ### 网易云音乐平台的音乐接口：
 ```
 搜索歌曲API：
