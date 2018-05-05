@@ -55,7 +55,19 @@ type        -1
 data_source  0
 use_cluster  1
 ```
+- 获取专辑详情：
+```
+http://tingapi.ting.baidu.com/v1/restserver/ting?from=android&version=5.6.5.0&method=baidu.ting.album.getAlbumInfo&format=json&album_id=67909
 
+参数：
+
+from  android
+version   5.6.5.0
+method    baidu.ting.album.getAlbumInfo
+format    json
+album_id  67909
+
+```
 
 ### 网易云音乐平台的音乐接口：
 ```
