@@ -115,6 +115,9 @@ album_id  67909
 * https://github.com/MoePlayer/APlayer
 * 在线LRC歌词编辑器: https://github.com/MoeFE/Lyric
 
+## 网易云音乐 Node.js API service
+  - https://github.com/Binaryify/NeteaseCloudMusicApi
+  -最好的网易云音乐播放器： https://github.com/trazyn/ieaseMusic
 
 ### 实例
 * 基于百度音乐在线api做的一个简易的播放器 : https://github.com/myadmin/music
