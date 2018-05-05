@@ -118,8 +118,11 @@ album_id  67909
 ## 网易云音乐 Node.js API service
   - https://github.com/Binaryify/NeteaseCloudMusicApi
   - 最好的网易云音乐播放器： https://github.com/trazyn/ieaseMusic
-  - 网易云音乐 Electron 客户端： https://github.com/disoul/electron-cloud-music
-  - 
+  - 网易云音乐 Electron 客户端： https://github.com/disoul/electron-cloud-music
+  - 网易云音乐命令行版本: https://github.com/darknessomi/musicbox
+  - 网易云音乐接口: https://github.com/sqaiyan/netmusic-node
+  - [一个基于 koa 的网易云音乐的代理，用于海外解锁及替换版权歌曲的播放地址](https://github.com/ITJesse/UnblockNeteaseMusic)
+  - 根据网易云音乐的歌单, 下载flac无损音乐到本地:https://github.com/YongHaoWu/NeteaseCloudMusicFlac
 
 ### 实例
 * 基于百度音乐在线api做的一个简易的播放器 : https://github.com/myadmin/music
