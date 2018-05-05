@@ -20,3 +20,51 @@
             }
         });
   ```
+
+
+#### 搜歌API
+```
+http://mobilecdn.kugou.com/api/v3/search/song?format=jsonp&keyword=%E4%BB%99%E5%89%91&page=1&pagesize=10&showtype=1&callback=kgJSONP238513750
+```
+
+### 网易云音乐平台的音乐接口：
+```
+搜索歌曲API：
+
+  请求方式：post
+
+  请求地址：http://music.163.com/api/search/get/web?csrf_token=
+
+  请求数据：hlpretag=&hlposttag=&s=搜索歌曲名或歌手名&type=1&offset=0&total=true&limit=返回数据条数
+
+  请求头部：（仅供参考）数组形式
+
+  'Host: music.163.com',
+
+  返回数据：json数据格式，这里就不讲了。
+
+获取歌曲歌词：
+
+  请求方式：get
+
+  请求地址：http://music.163.com/api/song/lyric?
+
+  请求数据：os=pc&id=歌曲id&lv=-1&kv=-1&tv=-1
+
+  返回数据：返回json类型lyric歌曲歌词数据。
+
+获取歌曲直链地址：
+
+  请求方式：get
+
+  请求地址：http://music.163.com/api/song/detail/?
+
+  请求数据：id=歌曲id&ids=%5B歌曲id%5D
+
+  返回数据：返回json类型歌曲文件信息。
+```
+
+
+### APlayer
+
+* https://github.com/MoePlayer/APlayer
