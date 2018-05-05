@@ -116,7 +116,7 @@ album_id  67909
 * 在线LRC歌词编辑器: https://github.com/MoeFE/Lyric
 
 ## 网易云音乐 Node.js API service
-  - https://github.com/Binaryify/NeteaseCloudMusicApi
+  - https://github.com/Binaryify/NeteaseCloudMusicApi
   - 最好的网易云音乐播放器： https://github.com/trazyn/ieaseMusic
   - 网易云音乐 Electron 客户端： https://github.com/disoul/electron-cloud-music
   - 网易云音乐命令行版本: https://github.com/darknessomi/musicbox
