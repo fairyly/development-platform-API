@@ -39,6 +39,22 @@ http://mobilecdn.kugou.com/api/v3/search/song?format=jsonp&keyword=%E4%BB%99%E5%
   
 http://tingapi.ting.baidu.com/v1/restserver/ting?from=android&version=5.6.5.0&method=baidu.ting.search.catalogSug&format=json&query=%E4%B8%83%E9%87%8C%E9%A6%99
 ```
+- 关键字搜索（包括歌曲，专辑，歌手，伴奏）
+```
+http://tingapi.ting.baidu.com/v1/restserver/ting?from=android&version=5.6.5.0&method=baidu.ting.search.merge&format=json&query=%E4%B8%83%E9%87%8C%E9%A6%99&page_no=1&page_size=50&type=-1&data_source=0&use_cluster=1 
+
+参数：（下面应该很容易懂，就不具体解释了）get
+
+version     5.6.5.0
+method   baidu.ting.search.merge
+format   json
+query    七里香
+page_no  1
+page_size 50
+type        -1
+data_source  0
+use_cluster  1
+```
 
 
 ### 网易云音乐平台的音乐接口：
