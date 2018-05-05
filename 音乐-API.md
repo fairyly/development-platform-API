@@ -68,3 +68,4 @@ http://mobilecdn.kugou.com/api/v3/search/song?format=jsonp&keyword=%E4%BB%99%E5%
 ### APlayer
 
 * https://github.com/MoePlayer/APlayer
+* 在线LRC歌词编辑器: https://github.com/MoeFE/Lyric
