@@ -1,6 +1,8 @@
 # 天气
 
-## 和风天气
+>https://dev.heweather.com/docs/api/weather
+
+## 和风天气(老接口)， 已经有新的接口地址
 ```
 权限             普通用户             认证个人开发者            认证企业开发者
 应用数量            1                      3                       5
@@ -190,6 +192,9 @@
 | 999 | 未知 | Unknown | [999.png](https://cdn.heweather.com/cond_icon/999.png "未知图标") |
 
 
+
+
 ## 参考
 - [开发文档](https://www.heweather.com/documents/api/s6/air-all)
 - [状态码和错误码](https://www.heweather.com/documents/status-code)
+- [API 文档](https://dev.heweather.com/docs/api/weather)
