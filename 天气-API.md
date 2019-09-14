@@ -192,9 +192,14 @@
 | 999 | 未知 | Unknown | [999.png](https://cdn.heweather.com/cond_icon/999.png "未知图标") |
 
 
+## 天行数据
+
+- https://www.tianapi.com/apiview/72
 
 
 ## 参考
 - [开发文档](https://www.heweather.com/documents/api/s6/air-all)
 - [状态码和错误码](https://www.heweather.com/documents/status-code)
 - [API 文档](https://dev.heweather.com/docs/api/weather)
+
+- [天行数据接口](https://www.tianapi.com/list/)
